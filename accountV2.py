@@ -20,4 +20,4 @@ for i in range(len(names)):
     #print(students_dictio)
 
     print(f"Printing students[{i}]:{students[i]}")
-    #ityuiuy
+    
