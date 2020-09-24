@@ -19,3 +19,4 @@ for i in range(5):
     print(f"student: (names[i])")
     print(f"id:{ids[i]}")
     print(f"email:{emails[i]}\n")
+    #jfgkj
