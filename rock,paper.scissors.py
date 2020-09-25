@@ -33,3 +33,6 @@ while player == False:
     # we want it to be False so the loop continues
     player = False
     computer = choices[randint(0,2)]
+
+
+    #kjgf
